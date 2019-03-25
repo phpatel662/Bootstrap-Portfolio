@@ -50,7 +50,7 @@ nav a {
     line-height: 18px;
     color: #999;
     text-decoration: none;
-    border-left: 1px solid #efefef;
+    border-left: 1px solid white;
   }
 
   .btn_btn-primary {
